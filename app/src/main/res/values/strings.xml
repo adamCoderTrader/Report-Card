@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Report Card</string>
+
+    <string name="html5">HTML5</string>
+    <string name="css3">CSS#</string>
+    <string name="javascript">JavaScript</string>
+    <string name="getGrade">Enter Grade Here</string>
+    <string name="webGrader">Web Developer Grader</string>
+    <string name="submit">submit grades</string>
+    <string name="enter_stundents_name">Enter Stundents Name</string>
+    <string name="enter_grade">Enter Grade</string>
 </resources>
